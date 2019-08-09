@@ -1,2 +1,2 @@
-# hexoscript.github.io
-【hexo-script】website
+# Initial page
+
