@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [\[hexo-script\]使用文档](README.md)
 
