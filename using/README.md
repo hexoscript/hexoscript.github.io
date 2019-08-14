@@ -2,7 +2,13 @@
 
 # [hexo-script-win]更新日志
 
-* v1.3- 2019-08-12
+* v1.31- 2019-08-14
+
+### V1.31更新内容
+
+- 更改一键生成ssh秘钥的命令
+- 修复一些闪退问题(可能还会出现)
+- 修改帮助菜单
 
 ### v1.3更新内容
 
@@ -197,7 +203,7 @@ cd hexobloghexo s
 
 
 ```
-source install.sh git_ssh
+./install.sh git_ssh
 ```
 
 ![img](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LlpfTEtpw-XHjloYx-t%2F-LlyrhN541A0nwXokcle%2F-Llysn3EaGuJyGT8TerP%2F33.png?alt=media&token=444ef29f-36ca-44f6-b935-92d8f0883dfe)
